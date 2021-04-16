@@ -27,7 +27,7 @@ body {
 }
 .menu {
     position: fixed;
-    background: white;
+    background: black;
     width: 100%;
     margin-top: 0px;
     top: 0px;
@@ -39,6 +39,9 @@ body {
     padding-right: 25px;
     font-family: cursive;
     font-size:20px;
+}
+
+
 }
 html {
     scroll-behavior: smooth;
